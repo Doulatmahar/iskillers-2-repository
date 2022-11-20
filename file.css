@@ -303,8 +303,30 @@ cursor: pointer;
     font-size: 18px;
     font-weight: bold;
 }
+.image-media-icon{
+    width: 20px;
+    background-color: #6b6b84;
+    border-radius: 5px;
+    margin: 3px;
 
-
+}
+.image-media-icon:hover{
+    background-image: linear-gradient(to right, #921e99, #373791);
+    
+}
+.media-div-flex{
+    display: flex;
+    
+}
+.div-media{
+    background-color: #6b6b84;
+    border-radius: 5px;
+    margin: 3px;
+}
+.div-media:hover{
+    background-image: linear-gradient(to right, #921e99, #373791);
+    cursor: pointer;
+}
 
 
 
